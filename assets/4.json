@@ -1,0 +1,19 @@
+{
+  "name": "Solana Progress #4",
+  "symbol": "PRO",
+  "image": "4.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8ZGwQtzy7ViT31azxwyfSHg5jwxeBGEpfcU1VJvVBEY9",
+        "share": 100
+      }
+    ]
+  }
+}
